@@ -111,3 +111,5 @@ Este é um projeto acadêmico individual para a disciplina de Inferência Estat�
 
 ---
 *Desenvolvido como parte do curso de Inferência Estatística - ICMC USP* 
+
+
