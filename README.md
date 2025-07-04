@@ -54,15 +54,7 @@ Trabalho_Inf_Estat/
 ├── 📁 Data/
 │   └── Students Social Media Addiction.csv
 ├── 📁 src/
-│   ├── 📁 A_Exploratoria_De_Dados/
-│   │   └── AED.ipynb                 # Análise Exploratória
-│   ├── 📁 Regressao/
-│   │   ├── ModeloLinear.ipynb        # Modelos de Regressão
-│   │   └── Test_1.ipynb              # Testes Estatísticos
-│   ├── 📁 Random_Tests/
-│   │   ├── fixed_regression_functions.py
-│   │   ├── Main.py
-│   │   └── Regressao_l.ipynb
+│   └── Codigo.ipynb                  # Notebook / Relatorio
 │   └── Lib.py                        # Funções auxiliares
 ├── Proposta.pdf                      # Proposta do projeto
 ├── requirements.txt                  # Dependências
