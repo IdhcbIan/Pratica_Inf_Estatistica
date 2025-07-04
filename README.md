@@ -1,7 +1,11 @@
 # 📊 Trabalho de Inferência Estatística
 ## Análise do Vício em Redes Sociais de Estudantes
 
-**Autores:** Ian Bezerra - 13835412  
+**Autores:**  
+* Ian de Holanda Cavalcanti Bezerra - 13835412
+* Hiago Vinicius Américo - 11218469
+* Nina Cunha Pinheiro - 13686500
+* Bruna Romero Arraes 11913896
 **Disciplina:** Inferência Estatística  
 **Universidade:** ICMC - USP
 **Prof:** Cibele Russo
